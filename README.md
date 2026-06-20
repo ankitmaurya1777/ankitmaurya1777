@@ -126,7 +126,7 @@ Guru Gobind Singh University
 # 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/ankit-maurya
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/ankitmaurya1777
 
 ---
 
